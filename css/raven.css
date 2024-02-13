@@ -21,3 +21,18 @@ body {
     margin: 0;
     border-radius: 5px 5px 0px 0px;
 }
+
+p{
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    border: 5px solid #040318;
+    border-radius: 10px;
+}
