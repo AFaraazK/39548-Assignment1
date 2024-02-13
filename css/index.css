@@ -1,5 +1,19 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
   text-align: center;
+  color: #16b978;
+  background-color: #040318;
+}
+
+.container{
+  margin: 0 auto;
+  padding: 2px;
+  background-color: #071a52;
+  width: 90%;
+  height: 97vh;
+  color: #fff;
+}
+
+a{
+  color: #a7ff84;
 }
