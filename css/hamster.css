@@ -1,0 +1,39 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    text-align: center;
+    color: #16b978;
+    background-color: #040318;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 2px;
+    background-color: #071a52;
+    width: 90%;
+    height: 97vh;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#title_bar{
+    background-color: #086972;
+    padding: 20px;
+    margin: 0;
+    border-radius: 5px 5px 0px 0px;
+}
+
+p{
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    border: 5px solid #040318;
+    border-radius: 10px;
+    width: 80%;
+}
