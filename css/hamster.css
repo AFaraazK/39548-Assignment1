@@ -38,3 +38,17 @@ img{
     max-height: 70%;
     max-width: 70%;
 }
+
+.back_button{
+    position: absolute;
+    left: 6%;
+    background: #16b978;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 2px solid #040318;
+    border-radius: 10px;
+    margin: 10px;
+}
+.back_button:hover{
+    color:#071a52;
+}
