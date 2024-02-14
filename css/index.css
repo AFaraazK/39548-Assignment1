@@ -13,9 +13,13 @@ body {
   height: 97vh;
   color: #fff;
   border-radius: 10px;
+  display: flex;
+  flex-direction: column;
 }
 a{
   color: #a7ff84;
+  text-decoration: none;
+  font-size: 20px;
 }
 
 /* Header */
@@ -41,8 +45,8 @@ a{
 }
 .animal_icon{
   object-fit: cover;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border: 4px solid #16b978;
   border-radius: 10px;
 }
@@ -50,8 +54,24 @@ a{
   margin-top: 5px;
   font-weight: bold;
 }
+
 .linkOption:hover{
-  transform: scale(1.02);
-  transition: transform .2s ease;
+  transform: scale(1.03);
+  transition: transform .3s ease;
   color: goldenrod;
+}
+.animal_icon:hover{
+  border: 4px solid gold;
+  transition: transform .3s ease;
+}
+
+/*Footer*/
+.footer{
+  position: absolute;
+  bottom: 0px;
+  margin: auto;
+  width: 88%;
+  background-color: #086972;
+  padding: 7px;
+  border-radius: 10px;
 }

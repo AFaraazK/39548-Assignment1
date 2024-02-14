@@ -1,6 +1,7 @@
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
+Faraaz Ali
 
 ### Live Link
 [Website link](https://afaraazk.github.io/39548-Assignment1/index.html/)
