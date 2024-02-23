@@ -4,7 +4,7 @@ This repository is the starter code for Assignment 1 - Zoo.
 Faraaz Ali
 
 ### Live Link
-[Website link](https://afaraazk.github.io/39548-Assignment1/index.html/)
+[Website link](https://afaraazk.github.io/39548-Assignment1/index.html)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
